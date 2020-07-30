@@ -244,12 +244,11 @@ li.menu-width-max ul.menu-second-level li {
       }
 
       .tbl-r04 {
-        width: 90%;
+        width: 98%;
       }
 
       .tbl-r04 th,
       .tbl-r04 td {
-        border-bottom: none;
         display: block;
         width: 100%;
       }
